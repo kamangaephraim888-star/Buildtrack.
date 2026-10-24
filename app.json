@@ -1,0 +1,13 @@
+{
+"expo": {
+"name": "BUILDTRACK",
+"slug": "buildtrack",
+"version": "1.0.0",
+"orientation": "portrait",
+"userInterfaceStyle": "light",
+"newArchEnabled": true,
+"android": {
+"package": "com.buildtrack.app"
+}
+}
+}
